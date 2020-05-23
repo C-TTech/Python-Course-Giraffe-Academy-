@@ -1,0 +1,5 @@
+from Student import Student
+
+student1 = Student("Tom", "Engineering", 3.1, True)
+student2 = Student("John", "Journalism", 3.1, True)
+print(student2.is_on_probation)
