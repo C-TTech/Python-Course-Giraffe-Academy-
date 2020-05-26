@@ -1,0 +1,13 @@
+
+def say_hi(name, age):
+    print("Hello " + name +", you are", str(age))
+
+
+say_hi("John", 35)
+say_hi("Tom", 50)
+
+def say_hello(name, age):
+    print("Hello " + name +", you are", str(age))
+
+say_hello("John", 99)
+say_hello("Laura", 30)
