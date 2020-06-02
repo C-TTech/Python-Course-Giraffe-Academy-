@@ -1,0 +1,8 @@
+from Chef import Chef
+from SpanishChef import SpanishChef
+
+myChef = Chef()
+myChef.make_special_dish()
+
+mySpanishChef = SpanishChef()
+mySpanishChef.make_fried_rice()
