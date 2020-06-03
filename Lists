@@ -1,0 +1,7 @@
+
+lucky_numbers = [2, 7, 100, 1000]
+friends = ["Tom", "John", "Skye", "Arnold", "Barack", "Barack"]
+
+friends2 = friends.copy()
+
+print(friends2)
