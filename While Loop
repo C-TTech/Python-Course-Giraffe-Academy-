@@ -1,0 +1,7 @@
+
+i = 12
+while i <= 20:
+    print(i)
+    i += 1
+
+print("Done with loop")
